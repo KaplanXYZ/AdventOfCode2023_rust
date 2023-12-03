@@ -1,0 +1,1 @@
+C:\Users\alexa\OneDrive\Desktop\adventOfCode\rust\2-Cube_Conundrum\part-2-cube_conundrum\target\debug\part-2-cube_conundrum.exe: C:\Users\alexa\OneDrive\Desktop\adventOfCode\rust\2-Cube_Conundrum\part-2-cube_conundrum\src\main.rs
