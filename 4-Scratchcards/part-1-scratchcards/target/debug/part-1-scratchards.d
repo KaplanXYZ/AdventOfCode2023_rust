@@ -1,0 +1,1 @@
+C:\Users\alexa\OneDrive\Desktop\adventOfCode\rust\4-Scratchcards\part-1-scratchards\target\debug\part-1-scratchards.exe: C:\Users\alexa\OneDrive\Desktop\adventOfCode\rust\4-Scratchcards\part-1-scratchards\src\main.rs
